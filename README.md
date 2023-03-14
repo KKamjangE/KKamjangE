@@ -19,8 +19,4 @@
 <h3>🛠 Tools 🛠</h3>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-<hr>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKamjangE&layout=compact"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KKamjangE&show_icons=true">
 </div>
