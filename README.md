@@ -16,7 +16,13 @@
 <br>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+<br>
+<br>
 <h3>🛠 Tools 🛠</h3>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<hr>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=KKamjangE&show_icons=true&locale=en" alt="KKamjangE" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KKamjangE&show_icons=true&locale=en&layout=compact" alt="KKamjangE" />
 </div>
