@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Styled-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
 
 ## 📚 Back-end
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
