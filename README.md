@@ -8,6 +8,10 @@
 <img src="https://commitmon.me/adventure?username=KKamjangE&theme=desert&userFetchType=all" width="600px" />
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/KKamjangE?pet-id=1" width="1000" height="120"/>
+</a>
+
 # ✨ Tech Stack ✨
 
 ## 📚 Language
