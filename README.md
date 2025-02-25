@@ -4,10 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKamjangE%2Fhit-counter&count_bg=%23408CCA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=KKamjangE&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/doongjun/commitmon" target="_blank">
-<img src="https://commitmon.me/adventure?username=KKamjangE&theme=desert&userFetchType=all" width="600px" />
-</a>
-
 # ✨ Tech Stack ✨
 
 ## 📚 Language
