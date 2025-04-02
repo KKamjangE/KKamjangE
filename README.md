@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=Jemin&desc="Hi.%20I`m%20a%20Front-end%20Engineer"&fontAlign=50&fontAlignY=35&fontSize=50&fontColor=ffffff)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKamjangE%2Fhit-counter&count_bg=%23408CCA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=KKamjangE&edge_flat=false)](https://hits.seeyoufarm.com)
-
 # ✨ Tech Stack ✨
 
 ## 📚 Language
